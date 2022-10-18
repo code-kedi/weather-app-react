@@ -143,7 +143,7 @@ export default function Weather() {
           </div>
           <small>
             <a
-              href="https://github.com/code-kedi/sonja-weather"
+              href="https://github.com/code-kedi/weather-app-react"
               target="_blank"
               rel="noreferrer"
             >
