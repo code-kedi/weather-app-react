@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# Ignore .env file containing credentials.
+.env
+
 # testing
 /coverage
 

@@ -1,5 +1,9 @@
-.Weather body {
+.Weather {
   font-family: "Urbanist", sans-serif;
+  border: 1px solid #dadde1;
+  padding: 16px;
+  border-radius: 4px;
+  color: rgb(135, 135, 135);
 }
 
 .Weather h1 {
@@ -28,21 +32,6 @@
 
 .Weather li:first-letter {
   text-transform: capitalize;
-}
-
-.Weather small span {
-  padding: 6px;
-}
-
-.Weather .weather-app-wrapper {
-  margin: 30px auto;
-  max-width: 600px;
-}
-
-.Weather .weather-app {
-  padding: 20px;
-  border: 1px solid #dadde1;
-  border-radius: 10px;
 }
 
 .Weather .overview {
