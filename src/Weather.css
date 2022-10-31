@@ -51,6 +51,10 @@
   line-height: 1;
 }
 
+.Weather .icon-temperature-wrapper {
+  padding: 0;
+}
+
 .Weather .float-left {
   float: left;
 }
@@ -68,6 +72,10 @@
 
 .Weather .weather-temperature .active:hover {
   text-decoration: none;
+}
+
+.WeatherTemperature span {
+  padding: 6px;
 }
 
 .Weather .weather-forecast {
