@@ -1,0 +1,7 @@
+.WeatherForecastDay span {
+  padding: 0 2px;
+}
+
+.WeatherForecastDay-temp-min {
+  opacity: 0.6;
+}
