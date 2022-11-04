@@ -1,5 +1,4 @@
 .Weather {
-  font-family: "Urbanist", sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
@@ -76,24 +75,4 @@
 
 .WeatherTemperature span {
   padding: 6px;
-}
-
-.Weather .weather-forecast {
-  margin-top: 20px;
-  text-align: center;
-}
-
-.Weather .weather-forecast-date {
-  font-size: 16px;
-  color: #000;
-  opacity: 0.5;
-}
-
-.Weather .weather-forecast-temp-min {
-  font-size: 13px;
-  opacity: 0.5;
-}
-
-.Weather .weather-forecast-temperatures {
-  font-size: 13px;
 }
